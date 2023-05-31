@@ -6,7 +6,7 @@ function App() {
 
   return (
     <>
-      <Titulo></Titulo>
+      <Titulo tituloNuevo = "my friend!"></Titulo>
     </>
   )
 }
